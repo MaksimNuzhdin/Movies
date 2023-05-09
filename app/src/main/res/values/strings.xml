@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Muvies</string>
+    <string name="movie_poster_content_disc">Movie Poster</string>
+    <string name="movieposter">MoviePoster</string>
+    <string name="moviename">MovieName</string>
+    <string name="play_trailer">Play trailer</string>
+    <string name="favourite_movies">Favourite Movies</string>
+</resources>
